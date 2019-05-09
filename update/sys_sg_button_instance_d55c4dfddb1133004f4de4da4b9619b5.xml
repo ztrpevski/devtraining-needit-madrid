@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Create new">34d48d79db1133004f4de4da4b9619d4</button>
+        <description/>
+        <field_name/>
+        <label>Create new</label>
+        <location>top</location>
+        <name>Create new</name>
+        <order>1</order>
+        <parent>680710a5db5d73004f4de4da4b96194e</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 10:08:39</sys_created_on>
+        <sys_id>d55c4dfddb1133004f4de4da4b9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create new</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d55c4dfddb1133004f4de4da4b9619b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-09 10:08:39</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d55c4dfddb1133004f4de4da4b9619b5"/>
+</record_update>

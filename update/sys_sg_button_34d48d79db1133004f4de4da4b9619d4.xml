@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button">
+    <sys_sg_button action="INSERT_OR_UPDATE">
+        <allow_images_upload>false</allow_images_upload>
+        <auto_redirection>false</auto_redirection>
+        <cancel_label>cancel</cancel_label>
+        <condition/>
+        <condition_script/>
+        <condition_type>script</condition_type>
+        <confirm_label>confirm</confirm_label>
+        <confirmation_message>The new record is created</confirmation_message>
+        <context>record</context>
+        <description>create new record for the need it table</description>
+        <destination_screen/>
+        <external_browser>false</external_browser>
+        <failure_message>oh snap, something went wrong</failure_message>
+        <field_name/>
+        <jump_to_screen>false</jump_to_screen>
+        <link_label/>
+        <link_url/>
+        <mail_address/>
+        <mail_content/>
+        <mail_subject/>
+        <name>Create new</name>
+        <phone_number/>
+        <phone_type>cellular</phone_type>
+        <relative_url>true</relative_url>
+        <roles/>
+        <select_current_record>false</select_current_record>
+        <show_confirmation>true</show_confirmation>
+        <show_signature>false</show_signature>
+        <sms/>
+        <success_message>Success</success_message>
+        <sys_class_name>sys_sg_button</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 09:37:04</sys_created_on>
+        <sys_id>34d48d79db1133004f4de4da4b9619d4</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Create new</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_34d48d79db1133004f4de4da4b9619d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-09 11:24:24</sys_updated_on>
+        <table/>
+        <take_value_from_field>false</take_value_from_field>
+        <type>write_back</type>
+        <write_back_action_item display_value="Create needit record">5510c1b5db1133004f4de4da4b961906</write_back_action_item>
+    </sys_sg_button>
+    <sys_translated_text action="delete_multiple" query="documentkey=34d48d79db1133004f4de4da4b9619d4"/>
+</record_update>

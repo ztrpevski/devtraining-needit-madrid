@@ -2,7 +2,7 @@
     <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
         <application_roles>admin</application_roles>
         <available_offline>false</available_offline>
-        <data_item display_value="Incidents">834af311db1d73004f4de4da4b9619f1</data_item>
+        <data_item/>
         <description/>
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>

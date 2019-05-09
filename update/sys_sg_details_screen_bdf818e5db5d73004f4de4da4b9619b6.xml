@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
     <sys_sg_details_screen action="INSERT_OR_UPDATE">
-        <application_roles>admin</application_roles>
+        <application_roles/>
         <available_offline>false</available_offline>
-        <data_item/>
-        <description/>
+        <data_item display_value="Specified Request Type">c4031461db5d73004f4de4da4b961901</data_item>
+        <description>View all open NeedIt records for a specific Request type</description>
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>
-        <icon display_value="file-alt">da6a3711db1d73004f4de4da4b9619a9</icon>
-        <item_view display_value="Test detail item view">226a3711db1d73004f4de4da4b961955</item_view>
+        <icon display_value="edit">61f810e5db5d73004f4de4da4b961930</icon>
+        <item_view display_value="By Request Type detail item view">25f814e5db5d73004f4de4da4b9619a9</item_view>
         <name>Details</name>
         <order>10</order>
-        <parent>2e6a7711db1d73004f4de4da4b9619f7</parent>
+        <parent>71f818e5db5d73004f4de4da4b9619d6</parent>
         <parent_table>sys_sg_master_item</parent_table>
         <roles_override/>
         <sys_class_name>sys_sg_details_screen</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-05-08 09:32:17</sys_created_on>
-        <sys_id>b26a3711db1d73004f4de4da4b961958</sys_id>
+        <sys_created_on>2019-05-08 11:45:46</sys_created_on>
+        <sys_id>bdf818e5db5d73004f4de4da4b9619b6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Details</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_sg_details_screen_b26a3711db1d73004f4de4da4b961958</sys_update_name>
+        <sys_update_name>sys_sg_details_screen_bdf818e5db5d73004f4de4da4b9619b6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-08 09:32:17</sys_updated_on>
+        <sys_updated_on>2019-05-08 11:45:46</sys_updated_on>
     </sys_sg_details_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=b26a3711db1d73004f4de4da4b961958"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=bdf818e5db5d73004f4de4da4b9619b6"/>
 </record_update>
